@@ -1,0 +1,29 @@
+{
+  "name": "smongo",
+  "version": "0.0.5",
+  "main": "./lib/index.js",
+  "description": "Mongoose Wrapper",
+  "keywords": [],
+  "homepage": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": {
+    "name": "Denis Ivanov",
+    "email": "teniryte@gmail.com"
+  },
+  "scripts": {
+    "test": "node ./test"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.11",
+    "mongoose-auto-increment": "^5.0.1",
+    "tap": "^10.7.2"
+  }
+}
