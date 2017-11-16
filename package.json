@@ -1,6 +1,6 @@
 {
   "name": "smongo",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "./lib/index.js",
   "description": "Mongoose Wrapper",
   "keywords": [],
@@ -21,8 +21,8 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "mongodb": "^2.2.31",
-    "mongoose": "^4.11.11",
+    "mongodb": "^2.2.15",
+    "mongoose": "^4.8.0",
     "mongoose-auto-increment": "^5.0.1",
     "tap": "^10.7.2"
   }

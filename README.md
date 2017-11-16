@@ -1,7 +1,7 @@
 # smongo
-Mongoose Wrapper
-
+##### Simple and useful tools for [Mongoose](https://github.com/Automattic/mongoose) library
 ```js
+
 const smongo = require('smongo');
 
 var db = smongo('lpchat', {
@@ -9,6 +9,8 @@ var db = smongo('lpchat', {
 });
 
 db.User.find({}).then(users => console.log(users));
+```
+```
 ```
 
 ## Model
